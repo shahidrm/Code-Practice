@@ -2,8 +2,8 @@ package One_To_Ten_Questions;
 import java.util.Scanner;
 
 public class PrimeNumber {
+	
 	//10. Write a Java program to check if a number is a prime number.
-
 
 	public static void main(String[] args) {
 

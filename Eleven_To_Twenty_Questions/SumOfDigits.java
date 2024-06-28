@@ -3,6 +3,8 @@ package Eleven_To_Twenty_Questions;
 import java.util.Scanner;
 
 public class SumOfDigits {
+	
+//	12. Write a Java program to find the sum of the digits of a given number.
 
 	public static void main(String[] args) {
 
