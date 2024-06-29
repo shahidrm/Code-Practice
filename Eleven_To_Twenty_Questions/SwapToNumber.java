@@ -9,7 +9,7 @@ public class SwapToNumber {
 	public static void main(String[] args) {
 		
 		int a,b,temp;
-		System.out.println("Enter two Numbers");
+		System.out.println("Enter two Numbers ");
 		Scanner sc = new Scanner(System.in);
 		a = sc.nextInt();
 		b = sc.nextInt();
